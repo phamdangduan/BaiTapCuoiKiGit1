@@ -1,4 +1,3 @@
-ADD
-SUB
+﻿SUB
 MUL
 DIV
