@@ -1,5 +1,4 @@
-ADD
-SUB
+﻿SUB
 MUL
 MOD
 DIV
